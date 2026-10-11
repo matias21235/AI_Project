@@ -31,3 +31,13 @@ python recommendation_system.py
 
 ## Autor
 Matías Oyarzún – INACAP
+
+## Capturas de pantalla
+
+**1. Prompt y respuesta de GitHub Copilot Chat**
+
+![Copilot Chat](captura_copilot.png)
+
+**2. Archivos del repositorio en GitHub**
+
+![Repositorio](captura_repo.png)
